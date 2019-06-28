@@ -1,5 +1,5 @@
-age = 26
-name = 'Swaroop'
+a = 50
 
-print('Возраст {0} -- {1} лет.'.format(age, name))
-print('Почему {0} забавляется с этим Python?'.format(name))
+b = 20
+
+c = a % b
